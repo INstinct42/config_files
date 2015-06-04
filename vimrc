@@ -312,3 +312,7 @@ let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1
 let g:miniBufExplMapCTabSwitchBufs = 1
 let g:miniBufExplModSelTarget = 1
+
+" Thesaurus
+" download from https://www.gutenberg.org/files/3202/files/mthesaur.txt
+let g:lexical#thesaurus = ['~/.vim/thesaurus/mthesaur.txt',]

@@ -52,6 +52,7 @@ Plugin 'Raimondi/delimitMate'
 " Plugin 'Shougo/neosnippet-snippets'
 Plugin 'fholgado/minibufexpl.vim'
 Plugin 'kien/ctrlp.vim'
+Plugin 'tpope/vim-fugitive'
 
 " Extend Vim
 " vimproc
